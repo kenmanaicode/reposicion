@@ -1,0 +1,20 @@
+SITIO WEB: EL PERFIL DEL ESTUDIANTE DE SOFTWARE
+
+Archivos:
+- index.html: contenido de la página.
+- styles.css: diseño adaptable a celular y computadora.
+- script.js: interacciones sencillas.
+
+PARA PROBAR:
+1. Descomprime la carpeta.
+2. Abre index.html con un navegador.
+
+PARA PUBLICAR GRATIS:
+1. Crea una cuenta en un servicio de alojamiento estático gratuito, por ejemplo GitHub Pages.
+2. Crea un repositorio público nuevo.
+3. Sube index.html, styles.css y script.js a la raíz del repositorio.
+4. En la configuración del repositorio, busca Pages y selecciona publicar desde la rama principal (main) y carpeta raíz.
+5. Guarda los cambios y espera a que el servicio genere la dirección pública.
+6. Abre la dirección para comprobar que la página funciona y comparte ese enlace en Classroom.
+
+Antes de entregar, revisa los datos de portada y agrega fotografías o capturas de tus propios proyectos en la sección de anexos.
